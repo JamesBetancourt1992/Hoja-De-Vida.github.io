@@ -1,0 +1,76 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    width: auto;
+    height: auto;
+}
+
+#titulo{
+    background-color: #364552;
+    color: white;
+    padding: .5rem .5rem;
+    text-align: center;
+    border-radius: 10px;
+    font-family: 'Diplomata SC', cursive;
+}
+
+.section{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+}
+
+.imagen{
+    float: right;
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+    border-radius: 200px;
+}
+
+.foto{
+    border-radius: 100px;
+}
+.letf{
+    float: left;
+    width: 800px;
+    height: 800px; 
+}
+
+.right{
+    float: right;
+    width: 600x;
+    height: 600px;
+       
+}
+
+div p{
+    color: black;
+}
+
+.fechas{
+    color: dimgray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h4{
+    padding: 2px 2px;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+    font-family: 'Staatliches', cursive; 
+    font-size: 30px;
+}
+
+.conocimientos{
+    font-family: 'Staatliches', cursive; 
+    font-size: 25px;
+}
+
+img{
+    border-radius: 50%;
+    display:block;
+    border: 2px solid #364552;
+}
